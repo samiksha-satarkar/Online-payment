@@ -11,7 +11,9 @@ A user-friendly desktop interface built with Python, Tkinter, and qrcode to gene
 ✅ Generates 3 QR codes for:
 
 PhonePe
+
 Paytm
+
 Google Pay
 
 ✅ Automatically saves QR codes as .png
